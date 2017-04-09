@@ -1,0 +1,45 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true">
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#00abd4">
+
+
+    <TextView
+        android:id="@+id/label"
+        android:layout_marginTop="21dp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:textSize="30dp"
+        android:text="The Official Literary, Debate, and Quiz Club of MIT Manipal"
+        android:textStyle="bold"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="We organize several Intra and Inter college literary fests.
+As the official literary, debate and quiz club of our college we also select the various college teams
+to represent the institution at college fests across the country.
+We also conduct our own workshops to train students in the art of public speaking.
+We have our own category during TechTatva (the tech fest of M.I.T.) and Revels (the cultural fest of M.I.T.)"
+        android:textSize="20dp"
+        android:gravity="center_horizontal"
+        android:id="@+id/textView2"
+        android:layout_below="@+id/label"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="20dp" />
+
+</RelativeLayout>
+</ScrollView>

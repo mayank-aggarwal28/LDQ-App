@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "515261226862",
+    "firebase_url": "https://ldq-app-d2e6b.firebaseio.com",
+    "project_id": "ldq-app-d2e6b",
+    "storage_bucket": "ldq-app-d2e6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515261226862:android:09c86d8e82ab7546",
+        "android_client_info": {
+          "package_name": "com.example.mayank.ldqapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515261226862-bo3b4qi9ov36sdq3t5n3uauavvbkmfi8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mayank.ldqapp",
+            "certificate_hash": "5E1F23880698E75B0B830D3425275974AF5186BA"
+          }
+        },
+        {
+          "client_id": "515261226862-l24f8b49unersqeugknfdnhfs887t36n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mayank.ldqapp",
+            "certificate_hash": "5036D99AF377F96921E2FD84ABB137A0B8D0E63B"
+          }
+        },
+        {
+          "client_id": "515261226862-3ua1m3jh8toak5ii8rl60hnusulkv2d8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU_A5l-FTj0yfr3jgCwtQoT_TbxgPST_Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515261226862-3ua1m3jh8toak5ii8rl60hnusulkv2d8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
