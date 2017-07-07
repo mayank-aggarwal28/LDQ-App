@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Android\\LDQApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\googleg_color.png",
+        "source": "D:\\Android\\LDQApp\\app\\src\\main\\res\\drawable-mdpi\\googleg_color.png"
+    },
+    {
+        "merged": "D:\\Android\\LDQApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\connect.png",
+        "source": "D:\\Android\\LDQApp\\app\\src\\main\\res\\drawable-mdpi\\connect.png"
+    },
+    {
+        "merged": "D:\\Android\\LDQApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\fixtures.png",
+        "source": "D:\\Android\\LDQApp\\app\\src\\main\\res\\drawable-mdpi\\fixtures.png"
+    },
+    {
+        "merged": "D:\\Android\\LDQApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\table.png",
+        "source": "D:\\Android\\LDQApp\\app\\src\\main\\res\\drawable-mdpi\\table.png"
+    }
+]

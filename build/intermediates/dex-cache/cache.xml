@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Android\LDQApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="D:\Android\LDQApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_fd2a0d32ef7190014f159075b9d956d041dc7f60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\LDQApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecd833e389210b7a1faf5eee3ca85c9417ad20d6">
+        <dex dex="D:\Android\LDQApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_76491e149bed502a6abed4a31bf7f35cdddfd759\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mahe\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\Android\LDQApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_4dd47c8f6129b206606625a9218b9cda3d4770b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\c0081a62fafddf1db490a0e416191036ce7ff046\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="D:\Android\LDQApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5a3da7df7ffaf56c9d26c0bd72813a85339b65b8\classes.dex" />
+    </item>
+
+</items>

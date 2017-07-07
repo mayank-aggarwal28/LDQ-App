@@ -1,0 +1,7 @@
+#Mon May 01 11:46:59 IST 2017
+base.0=D\:\\Android\\LDQApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_fd2a0d32ef7190014f159075b9d956d041dc7f60
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\Android\\LDQApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_76491e149bed502a6abed4a31bf7f35cdddfd759\\classes.dex
+base.1=D\:\\Android\\LDQApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_76491e149bed502a6abed4a31bf7f35cdddfd759
+file.0=D\:\\Android\\LDQApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_fd2a0d32ef7190014f159075b9d956d041dc7f60\\classes.dex

@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "D:\\Android\\LDQApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Android\\.android\\build-cache\\b6780f53bb4c6dba14f5d588d51a34dfc33fbe56\\output\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "D:\\Android\\LDQApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Android\\.android\\build-cache\\b6780f53bb4c6dba14f5d588d51a34dfc33fbe56\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\Android\\LDQApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Android\\.android\\build-cache\\b6780f53bb4c6dba14f5d588d51a34dfc33fbe56\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "D:\\Android\\LDQApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
+        "source": "C:\\Android\\.android\\build-cache\\2f5de833bc84e6c2dee13cf21aaed45e1ca51cca\\output\\res\\color\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "D:\\Android\\LDQApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Android\\.android\\build-cache\\b6780f53bb4c6dba14f5d588d51a34dfc33fbe56\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\LDQApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Android\\.android\\build-cache\\b6780f53bb4c6dba14f5d588d51a34dfc33fbe56\\output\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "D:\\Android\\LDQApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Android\\.android\\build-cache\\b6780f53bb4c6dba14f5d588d51a34dfc33fbe56\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "D:\\Android\\LDQApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Android\\.android\\build-cache\\b6780f53bb4c6dba14f5d588d51a34dfc33fbe56\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\Android\\LDQApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Android\\.android\\build-cache\\b6780f53bb4c6dba14f5d588d51a34dfc33fbe56\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "D:\\Android\\LDQApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Android\\.android\\build-cache\\dec45f7111986ca6e89b5d0c057b01e9ea7d9058\\output\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Android\\LDQApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Android\\.android\\build-cache\\b6780f53bb4c6dba14f5d588d51a34dfc33fbe56\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Android\\LDQApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Android\\.android\\build-cache\\b6780f53bb4c6dba14f5d588d51a34dfc33fbe56\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Android\\LDQApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Android\\.android\\build-cache\\b6780f53bb4c6dba14f5d588d51a34dfc33fbe56\\output\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "D:\\Android\\LDQApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Android\\.android\\build-cache\\b6780f53bb4c6dba14f5d588d51a34dfc33fbe56\\output\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "D:\\Android\\LDQApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Android\\.android\\build-cache\\b6780f53bb4c6dba14f5d588d51a34dfc33fbe56\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "D:\\Android\\LDQApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Android\\.android\\build-cache\\dec45f7111986ca6e89b5d0c057b01e9ea7d9058\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\Android\\LDQApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Android\\.android\\build-cache\\b6780f53bb4c6dba14f5d588d51a34dfc33fbe56\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Android\\LDQApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Android\\.android\\build-cache\\b6780f53bb4c6dba14f5d588d51a34dfc33fbe56\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Android\\LDQApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Android\\.android\\build-cache\\b6780f53bb4c6dba14f5d588d51a34dfc33fbe56\\output\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "D:\\Android\\LDQApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Android\\.android\\build-cache\\b6780f53bb4c6dba14f5d588d51a34dfc33fbe56\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Android\\LDQApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Android\\.android\\build-cache\\b6780f53bb4c6dba14f5d588d51a34dfc33fbe56\\output\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "D:\\Android\\LDQApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Android\\.android\\build-cache\\b6780f53bb4c6dba14f5d588d51a34dfc33fbe56\\output\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\LDQApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "C:\\Android\\.android\\build-cache\\2f5de833bc84e6c2dee13cf21aaed45e1ca51cca\\output\\res\\color\\design_error.xml"
+    },
+    {
+        "merged": "D:\\Android\\LDQApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Android\\.android\\build-cache\\b6780f53bb4c6dba14f5d588d51a34dfc33fbe56\\output\\res\\color\\abc_tint_switch_track.xml"
+    }
+]

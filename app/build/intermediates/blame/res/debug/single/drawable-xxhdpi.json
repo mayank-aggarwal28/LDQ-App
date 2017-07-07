@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Android\\LDQApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\connect.png",
+        "source": "D:\\Android\\LDQApp\\app\\src\\main\\res\\drawable-xxhdpi\\connect.png"
+    },
+    {
+        "merged": "D:\\Android\\LDQApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\table.png",
+        "source": "D:\\Android\\LDQApp\\app\\src\\main\\res\\drawable-xxhdpi\\table.png"
+    },
+    {
+        "merged": "D:\\Android\\LDQApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\fixtures.png",
+        "source": "D:\\Android\\LDQApp\\app\\src\\main\\res\\drawable-xxhdpi\\fixtures.png"
+    }
+]

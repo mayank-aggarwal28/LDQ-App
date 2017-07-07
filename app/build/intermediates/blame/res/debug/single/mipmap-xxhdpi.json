@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Android\\LDQApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\googleg_color.png",
+        "source": "D:\\Android\\LDQApp\\app\\src\\main\\res\\mipmap-xxhdpi\\googleg_color.png"
+    },
+    {
+        "merged": "D:\\Android\\LDQApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "D:\\Android\\LDQApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]

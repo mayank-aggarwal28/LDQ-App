@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">515261226862-3ua1m3jh8toak5ii8rl60hnusulkv2d8.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://ldq-app-d2e6b.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">515261226862</string>
+    <string name="google_api_key" translatable="false">AIzaSyDU_A5l-FTj0yfr3jgCwtQoT_TbxgPST_Y</string>
+    <string name="google_app_id" translatable="false">1:515261226862:android:09c86d8e82ab7546</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDU_A5l-FTj0yfr3jgCwtQoT_TbxgPST_Y</string>
+    <string name="google_storage_bucket" translatable="false">ldq-app-d2e6b.appspot.com</string>
+</resources>
